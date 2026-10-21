@@ -1,0 +1,723 @@
+{
+  "years": [
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114
+  ],
+  "cells": [
+    {
+      "year": 104,
+      "level": "junior",
+      "raw_schools": 943,
+      "eligible": 716,
+      "remote_eligible": 220,
+      "remote_roster": 237,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "not_in_standalone_directory": 218,
+        "private": 9
+      }
+    },
+    {
+      "year": 104,
+      "level": "primary",
+      "raw_schools": 2664,
+      "eligible": 2599,
+      "remote_eligible": 883,
+      "remote_roster": 885,
+      "remote_roster_unmatched": [
+        "014809"
+      ],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "private": 34,
+        "not_in_standalone_directory": 31
+      }
+    },
+    {
+      "year": 105,
+      "level": "junior",
+      "raw_schools": 947,
+      "eligible": 718,
+      "remote_eligible": 222,
+      "remote_roster": 239,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "not_in_standalone_directory": 218,
+        "private": 11
+      }
+    },
+    {
+      "year": 105,
+      "level": "primary",
+      "raw_schools": 2660,
+      "eligible": 2595,
+      "remote_eligible": 879,
+      "remote_roster": 881,
+      "remote_roster_unmatched": [
+        "014809"
+      ],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "private": 35,
+        "not_in_standalone_directory": 30
+      }
+    },
+    {
+      "year": 106,
+      "level": "junior",
+      "raw_schools": 949,
+      "eligible": 718,
+      "remote_eligible": 223,
+      "remote_roster": 241,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "not_in_standalone_directory": 219,
+        "private": 11,
+        "no_active_students_or_classes": 1
+      }
+    },
+    {
+      "year": 106,
+      "level": "primary",
+      "raw_schools": 2660,
+      "eligible": 2595,
+      "remote_eligible": 884,
+      "remote_roster": 886,
+      "remote_roster_unmatched": [
+        "014809"
+      ],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "private": 35,
+        "not_in_standalone_directory": 29,
+        "no_active_students_or_classes": 1
+      }
+    },
+    {
+      "year": 107,
+      "level": "junior",
+      "raw_schools": 954,
+      "eligible": 721,
+      "remote_eligible": 205,
+      "remote_roster": 218,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "not_in_standalone_directory": 220,
+        "private": 13
+      }
+    },
+    {
+      "year": 107,
+      "level": "primary",
+      "raw_schools": 2663,
+      "eligible": 2596,
+      "remote_eligible": 886,
+      "remote_roster": 887,
+      "remote_roster_unmatched": [
+        "014809"
+      ],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "private": 35,
+        "not_in_standalone_directory": 31,
+        "no_active_students_or_classes": 1
+      }
+    },
+    {
+      "year": 108,
+      "level": "junior",
+      "raw_schools": 961,
+      "eligible": 725,
+      "remote_eligible": 208,
+      "remote_roster": 221,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "not_in_standalone_directory": 222,
+        "private": 14
+      }
+    },
+    {
+      "year": 108,
+      "level": "primary",
+      "raw_schools": 2663,
+      "eligible": 2596,
+      "remote_eligible": 886,
+      "remote_roster": 886,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "private": 35,
+        "not_in_standalone_directory": 31,
+        "no_active_students_or_classes": 1
+      }
+    },
+    {
+      "year": 109,
+      "level": "junior",
+      "raw_schools": 961,
+      "eligible": 724,
+      "remote_eligible": 208,
+      "remote_roster": 221,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "not_in_standalone_directory": 224,
+        "private": 13
+      }
+    },
+    {
+      "year": 109,
+      "level": "primary",
+      "raw_schools": 2668,
+      "eligible": 2595,
+      "remote_eligible": 884,
+      "remote_roster": 884,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "not_in_standalone_directory": 36,
+        "private": 36,
+        "no_active_students_or_classes": 1
+      }
+    },
+    {
+      "year": 110,
+      "level": "junior",
+      "raw_schools": 965,
+      "eligible": 722,
+      "remote_eligible": 209,
+      "remote_roster": 223,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "not_in_standalone_directory": 228,
+        "private": 12,
+        "no_active_students_or_classes": 3
+      }
+    },
+    {
+      "year": 110,
+      "level": "primary",
+      "raw_schools": 2668,
+      "eligible": 2594,
+      "remote_eligible": 917,
+      "remote_roster": 917,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "not_in_standalone_directory": 41,
+        "private": 32,
+        "no_active_students_or_classes": 1
+      }
+    },
+    {
+      "year": 111,
+      "level": "junior",
+      "raw_schools": 967,
+      "eligible": 722,
+      "remote_eligible": 209,
+      "remote_roster": 223,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "not_in_standalone_directory": 232,
+        "private": 12,
+        "no_active_students_or_classes": 1
+      }
+    },
+    {
+      "year": 111,
+      "level": "primary",
+      "raw_schools": 2672,
+      "eligible": 2594,
+      "remote_eligible": 915,
+      "remote_roster": 915,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "not_in_standalone_directory": 45,
+        "private": 32,
+        "no_active_students_or_classes": 1
+      }
+    },
+    {
+      "year": 112,
+      "level": "junior",
+      "raw_schools": 968,
+      "eligible": 721,
+      "remote_eligible": 208,
+      "remote_roster": 222,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "not_in_standalone_directory": 233,
+        "private": 12,
+        "no_active_students_or_classes": 2
+      }
+    },
+    {
+      "year": 112,
+      "level": "primary",
+      "raw_schools": 2672,
+      "eligible": 2591,
+      "remote_eligible": 909,
+      "remote_roster": 909,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "not_in_standalone_directory": 47,
+        "private": 33,
+        "no_active_students_or_classes": 1
+      }
+    },
+    {
+      "year": 113,
+      "level": "junior",
+      "raw_schools": 970,
+      "eligible": 720,
+      "remote_eligible": 207,
+      "remote_roster": 221,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "not_in_standalone_directory": 236,
+        "private": 12,
+        "no_active_students_or_classes": 2
+      }
+    },
+    {
+      "year": 113,
+      "level": "primary",
+      "raw_schools": 2668,
+      "eligible": 2580,
+      "remote_eligible": 905,
+      "remote_roster": 905,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "not_in_standalone_directory": 54,
+        "private": 33,
+        "no_active_students_or_classes": 1
+      }
+    },
+    {
+      "year": 114,
+      "level": "junior",
+      "raw_schools": 972,
+      "eligible": 724,
+      "remote_eligible": 206,
+      "remote_roster": 220,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "not_in_standalone_directory": 235,
+        "private": 12,
+        "no_active_students_or_classes": 1
+      }
+    },
+    {
+      "year": 114,
+      "level": "primary",
+      "raw_schools": 2663,
+      "eligible": 2574,
+      "remote_eligible": 896,
+      "remote_roster": 896,
+      "remote_roster_unmatched": [],
+      "teacher_missing_or_zero": 0,
+      "excluded": {
+        "not_in_standalone_directory": 55,
+        "private": 33,
+        "no_active_students_or_classes": 1
+      }
+    }
+  ],
+  "duplicate_repairs": [
+    {
+      "source": "junior",
+      "year": 104,
+      "school_code": "323504",
+      "names": [
+        "市立?公國中",
+        "市立瑠公國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 105,
+      "school_code": "323504",
+      "names": [
+        "市立?公國中",
+        "市立瑠公國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 106,
+      "school_code": "323504",
+      "names": [
+        "市立?公國中",
+        "市立瑠公國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 107,
+      "school_code": "011322",
+      "names": [
+        "私立崇光女中附設國中部",
+        "私立崇光高中附設國中部"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 107,
+      "school_code": "091502",
+      "names": [
+        "私立淵明國中",
+        "私立淵明國中(代用)"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 107,
+      "school_code": "111502",
+      "names": [
+        "私立昭明國中",
+        "私立昭明國中(代用)"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 107,
+      "school_code": "131501",
+      "names": [
+        "私立南榮國中(代用)",
+        "私立南榮國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 107,
+      "school_code": "323504",
+      "names": [
+        "市立?公國中",
+        "市立瑠公國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 107,
+      "school_code": "333507",
+      "names": [
+        "市立民族國中",
+        "市立民族實驗國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 107,
+      "school_code": "343507",
+      "names": [
+        "市立濱江實驗國中",
+        "市立濱江國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 108,
+      "school_code": "191503",
+      "names": [
+        "私立麗喆國中(小)",
+        "私立麗?國中(小)"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 108,
+      "school_code": "323504",
+      "names": [
+        "市立?公國中",
+        "市立瑠公國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 109,
+      "school_code": "011314",
+      "names": [
+        "私立福瑞斯特高中附設國中部",
+        "私立中華高中附設國中部"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 109,
+      "school_code": "011322",
+      "names": [
+        "私立崇光高中附設國中部",
+        "私立崇光女中附設國中部"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 109,
+      "school_code": "014537",
+      "names": [
+        "市立石門國中",
+        "市立石門實驗國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 109,
+      "school_code": "014540",
+      "names": [
+        "市立坪林實驗國中",
+        "市立坪林國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 109,
+      "school_code": "014546",
+      "names": [
+        "市立貢寮實驗國中",
+        "市立貢寮國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 109,
+      "school_code": "024325",
+      "names": [
+        "縣立慈心華德福教育實驗高中附設國中",
+        "縣立慈心華德福實驗高中附設國中部"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 109,
+      "school_code": "031301",
+      "names": [
+        "私立桃園市懷恩高中附設國中部",
+        "私立桃園市漢英高中附設國中部"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 109,
+      "school_code": "07C301",
+      "names": [
+        "誠正中學彰化分校附設國中部",
+        "勵志中學附設國中部"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 109,
+      "school_code": "131302",
+      "names": [
+        "私立崇華國中附設國中",
+        "私立崇華高中附設國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 109,
+      "school_code": "203501",
+      "names": [
+        "市立大業實驗國中",
+        "市立大業國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 109,
+      "school_code": "211317",
+      "names": [
+        "私立崑山高中附設國中部",
+        "臺南市崑山高中附設國中部"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 109,
+      "school_code": "343507",
+      "names": [
+        "市立濱江國中",
+        "市立濱江實驗國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 109,
+      "school_code": "401303",
+      "names": [
+        "私立達人高中附設國中部",
+        "私立達人女中附設國中部"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 109,
+      "school_code": "403504",
+      "names": [
+        "市立西湖實驗國中",
+        "市立西湖國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 110,
+      "school_code": "011314",
+      "names": [
+        "私立福瑞斯特高中附設國中部",
+        "私立中華高中附設國中部"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 110,
+      "school_code": "014546",
+      "names": [
+        "市立貢寮國中",
+        "市立貢寮實驗國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 110,
+      "school_code": "031301",
+      "names": [
+        "私立桃園市懷恩高中附設國中部",
+        "私立桃園市漢英高中附設國中部"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 110,
+      "school_code": "203501",
+      "names": [
+        "市立大業實驗國中",
+        "市立大業國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 110,
+      "school_code": "311401",
+      "names": [
+        "私立普林思頓高中附設國中部",
+        "私立育達高中附設國中部"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 110,
+      "school_code": "403504",
+      "names": [
+        "市立西湖實驗國中",
+        "市立西湖國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 111,
+      "school_code": "024325",
+      "names": [
+        "縣立慈心華德福教育實驗高中附設國中",
+        "縣立慈心華德福實驗高中附設國中部"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 111,
+      "school_code": "203501",
+      "names": [
+        "市立大業國中",
+        "市立大業實驗國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 111,
+      "school_code": "211317",
+      "names": [
+        "臺南市崑山高中附設國中部",
+        "私立崑山高中附設國中部"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 111,
+      "school_code": "401303",
+      "names": [
+        "私立達人女中附設國中部",
+        "私立達人高中附設國中部"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    },
+    {
+      "source": "junior",
+      "year": 112,
+      "school_code": "024325",
+      "names": [
+        "縣立慈心華德福實驗高中附設國中部",
+        "縣立慈心華德福教育實驗高中附設國中"
+      ],
+      "resolution": "disjoint_nonzero_cells_summed"
+    }
+  ],
+  "unmatched_remote_policy": "Reported; excludes entries outside comparable standalone school population",
+  "branch_policy": "Main-school reporting units; branches are not independently added to totals. Some main-school units include branches; their classification follows the main school.",
+  "classification_policy": "Annual official roster; nonremote only assigned after year-level roster coverage validated"
+}

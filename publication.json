@@ -1,0 +1,27 @@
+{
+  "repo": "Hardy1Yang/taiwan-education-equity",
+  "deployed_url": "https://hardy1yang.github.io/taiwan-education-equity/",
+  "prepared_at": "2026-10-21T07:26:06.745197+00:00",
+  "run_id": "dd36035f37f1",
+  "bundle_sha256": "d4ad240cfdcbccbd40d3d9191eb6616e773aa8693527b7c261407c6daabe4a1a",
+  "content_sha256": "23e57bf7037b5c96a4ce53ec6e919c3e526b0df4bc1d2ed059b7efa226cc2d7c",
+  "files": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "README.md": "cfdbe7f788995d17df8c5c08c2cedcfb29d73fb490cea1fe550cce8c1f37b23f",
+    "app.js": "867e4689ebb0a16b7e1679bafd2440948c63309c109b8d6cecc451fd5fbe2835",
+    "charts.js": "9a731efc46444366b0d9a2aa3b9c73450daea5fbf3b0ab659684489e5aa2f2f6",
+    "data/analysis.md": "e92c842b0590ebaf573cf64008871cd83e726f9e7a405bf5dc454f3a02c7be0b",
+    "data/bundle.json": "d4ad240cfdcbccbd40d3d9191eb6616e773aa8693527b7c261407c6daabe4a1a",
+    "data/contents.json": "f011e072e1e5bfd536ed96a498daff88409291afbb9292da8b48d50d9a2b0237",
+    "data/coverage.json": "efb72fe33efaeae00a0747d108dc7d9b0a76f5d27acee52797adf00507d6ffb8",
+    "data/education-equity-data.zip": "d46b5d7f426bf456a18616dbb9cc8c02a1dd3861349115eab26ec5170e957d92",
+    "data/manifest.json": "e7b715fbccd33ff1a23d52376acedadfb3af1a96ac989f8492e5f09a03f0a5d3",
+    "data/methods.md": "1d50547d6f0249612d89d1a2dd100563af943dea5a5fc9aa99c6864eb02f6281",
+    "data/pisa.json": "4c58d697e58fafe8e56cb57ca5961cae783a6c9e8a714bfbba028c3cfd4772a5",
+    "data/resource_summary.csv": "4a9662d078b0f82c8d71002f97d747dec79e97163791a0521118481d41343bc2",
+    "data/school_panel.csv": "07f93979d3160c87f62157bd54adc58550655ffb6bbedca8bf3787afd4751cf7",
+    "data/transitions.json": "890f82476d24a2f0ba7a0d98f4a478af8b5272ce5cd8a62becd054c40a76da29",
+    "index.html": "e41260bc6d61615d0a33e50eaa4e5de50510ca7d8e2ac9f6cd407adb09503e9d",
+    "style.css": "30ab92dbc67bf80c52e750e1a5b5661864739ff68e17dd026ae5e41276610310"
+  }
+}

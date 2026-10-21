@@ -1,0 +1,182 @@
+[
+  {
+    "level": "primary",
+    "year": 105,
+    "entered": 2,
+    "exited": 6,
+    "common": 2593,
+    "to_remote": 2,
+    "to_nonremote": 0
+  },
+  {
+    "level": "primary",
+    "year": 106,
+    "entered": 3,
+    "exited": 3,
+    "common": 2592,
+    "to_remote": 7,
+    "to_nonremote": 0
+  },
+  {
+    "level": "primary",
+    "year": 107,
+    "entered": 2,
+    "exited": 1,
+    "common": 2594,
+    "to_remote": 153,
+    "to_nonremote": 150
+  },
+  {
+    "level": "primary",
+    "year": 108,
+    "entered": 0,
+    "exited": 0,
+    "common": 2596,
+    "to_remote": 0,
+    "to_nonremote": 0
+  },
+  {
+    "level": "primary",
+    "year": 109,
+    "entered": 3,
+    "exited": 4,
+    "common": 2592,
+    "to_remote": 0,
+    "to_nonremote": 0
+  },
+  {
+    "level": "primary",
+    "year": 110,
+    "entered": 3,
+    "exited": 4,
+    "common": 2591,
+    "to_remote": 40,
+    "to_nonremote": 5
+  },
+  {
+    "level": "primary",
+    "year": 111,
+    "entered": 4,
+    "exited": 4,
+    "common": 2590,
+    "to_remote": 0,
+    "to_nonremote": 0
+  },
+  {
+    "level": "primary",
+    "year": 112,
+    "entered": 3,
+    "exited": 6,
+    "common": 2588,
+    "to_remote": 0,
+    "to_nonremote": 0
+  },
+  {
+    "level": "primary",
+    "year": 113,
+    "entered": 0,
+    "exited": 11,
+    "common": 2580,
+    "to_remote": 2,
+    "to_nonremote": 0
+  },
+  {
+    "level": "primary",
+    "year": 114,
+    "entered": 4,
+    "exited": 10,
+    "common": 2570,
+    "to_remote": 0,
+    "to_nonremote": 0
+  },
+  {
+    "level": "junior",
+    "year": 105,
+    "entered": 2,
+    "exited": 0,
+    "common": 716,
+    "to_remote": 1,
+    "to_nonremote": 0
+  },
+  {
+    "level": "junior",
+    "year": 106,
+    "entered": 0,
+    "exited": 0,
+    "common": 718,
+    "to_remote": 1,
+    "to_nonremote": 0
+  },
+  {
+    "level": "junior",
+    "year": 107,
+    "entered": 3,
+    "exited": 0,
+    "common": 718,
+    "to_remote": 19,
+    "to_nonremote": 37
+  },
+  {
+    "level": "junior",
+    "year": 108,
+    "entered": 4,
+    "exited": 0,
+    "common": 721,
+    "to_remote": 1,
+    "to_nonremote": 0
+  },
+  {
+    "level": "junior",
+    "year": 109,
+    "entered": 0,
+    "exited": 1,
+    "common": 724,
+    "to_remote": 0,
+    "to_nonremote": 0
+  },
+  {
+    "level": "junior",
+    "year": 110,
+    "entered": 2,
+    "exited": 4,
+    "common": 720,
+    "to_remote": 3,
+    "to_nonremote": 0
+  },
+  {
+    "level": "junior",
+    "year": 111,
+    "entered": 0,
+    "exited": 0,
+    "common": 722,
+    "to_remote": 0,
+    "to_nonremote": 0
+  },
+  {
+    "level": "junior",
+    "year": 112,
+    "entered": 0,
+    "exited": 1,
+    "common": 721,
+    "to_remote": 0,
+    "to_nonremote": 0
+  },
+  {
+    "level": "junior",
+    "year": 113,
+    "entered": 0,
+    "exited": 1,
+    "common": 720,
+    "to_remote": 0,
+    "to_nonremote": 0
+  },
+  {
+    "level": "junior",
+    "year": 114,
+    "entered": 6,
+    "exited": 2,
+    "common": 718,
+    "to_remote": 0,
+    "to_nonremote": 0
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "status": "awaiting_authorized_files",
+  "year": 2022,
+  "source_type": "official_published_aggregate",
+  "source": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/11/pisa-2022-results-volume-i-and-ii-country-notes_2fca04b9/chinese-taipei_f10e2d2c/ebda1f30-en.pdf",
+  "access_url": "https://survey.oecd.org/index.php?lang=en&r=survey/index&sid=197663",
+  "method_url": "https://www.oecd.org/en/about/programmes/pisa/how-to-prepare-and-analyse-the-pisa-database.html",
+  "access_checked": "2026-10-21",
+  "sample_students": 5857,
+  "sample_schools": 182,
+  "sample_source_page": 9,
+  "grade10_share": 65,
+  "ses_gap": [
+    {
+      "group": "臺灣",
+      "value": 119
+    },
+    {
+      "group": "OECD 平均",
+      "value": 93
+    }
+  ],
+  "ses_gap_definition": "各經濟體內社經地位最高25%與最低25%學生的數學平均分數差",
+  "ses_gap_page": 5,
+  "ses_explained_variance": {
+    "taiwan": 16,
+    "oecd": 15
+  },
+  "resilient_share": {
+    "taiwan": 10,
+    "oecd": 10
+  },
+  "proficiency": [
+    {
+      "domain": "數學",
+      "taiwan_baseline": 85,
+      "oecd_baseline": 69,
+      "taiwan_top": 32,
+      "oecd_top": 9
+    },
+    {
+      "domain": "閱讀",
+      "taiwan_baseline": 84,
+      "oecd_baseline": 74,
+      "taiwan_top": 14,
+      "oecd_top": 7
+    },
+    {
+      "domain": "科學",
+      "taiwan_baseline": 88,
+      "oecd_baseline": 76,
+      "taiwan_top": 18,
+      "oecd_top": 7
+    }
+  ],
+  "proficiency_pages": [
+    2,
+    3
+  ],
+  "rounding": "官方整數四捨五入值；未自行重估或捏造信賴區間",
+  "urban_rural": {
+    "status": "not_estimated",
+    "reason": "個體檔尚未取得；官方偏遠學校與PISA社區人口分類不可互換"
+  },
+  "attribution": "Programme for International Student Assessment (PISA), Organisation for Economic Co-operation and Development (OECD), Paris"
+}

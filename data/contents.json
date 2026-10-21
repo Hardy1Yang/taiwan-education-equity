@@ -1,0 +1,34 @@
+{
+  "resource_summary.csv": {
+    "sha256": "4a9662d078b0f82c8d71002f97d747dec79e97163791a0521118481d41343bc2",
+    "bytes": 533492
+  },
+  "school_panel.csv": {
+    "sha256": "07f93979d3160c87f62157bd54adc58550655ffb6bbedca8bf3787afd4751cf7",
+    "bytes": 5760654
+  },
+  "coverage.json": {
+    "sha256": "efb72fe33efaeae00a0747d108dc7d9b0a76f5d27acee52797adf00507d6ffb8",
+    "bytes": 17727
+  },
+  "pisa.json": {
+    "sha256": "4c58d697e58fafe8e56cb57ca5961cae783a6c9e8a714bfbba028c3cfd4772a5",
+    "bytes": 1884
+  },
+  "transitions.json": {
+    "sha256": "890f82476d24a2f0ba7a0d98f4a478af8b5272ce5cd8a62becd054c40a76da29",
+    "bytes": 2932
+  },
+  "analysis.md": {
+    "sha256": "e92c842b0590ebaf573cf64008871cd83e726f9e7a405bf5dc454f3a02c7be0b",
+    "bytes": 4169
+  },
+  "methods.md": {
+    "sha256": "1d50547d6f0249612d89d1a2dd100563af943dea5a5fc9aa99c6864eb02f6281",
+    "bytes": 3664
+  },
+  "manifest.json": {
+    "sha256": "e7b715fbccd33ff1a23d52376acedadfb3af1a96ac989f8492e5f09a03f0a5d3",
+    "bytes": 13018
+  }
+}
